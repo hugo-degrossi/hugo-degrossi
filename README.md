@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my [portfolio](https://hugo-degrossi.fr)
+- 🌱 I’m currently learning Data Science & NextJS
 
 [Here's my old GIthub account](https://github.com/nilitz?tab=repositories)
 <!--
