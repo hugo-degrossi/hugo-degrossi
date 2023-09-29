@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Working on my [portfolio](https://hugo-degrossi.fr)
-- 🌱 Improving on Data Science & web development
+- 🔭 [portfolio](https://hugo-degrossi.fr) (it's quite old, I'm planing to refresh it 🫀)
+- 🌱 Dedicating personal time to develop skills on Flutter
 
 [Here's my old GIthub account](https://github.com/nilitz?tab=repositories)
 <!--
